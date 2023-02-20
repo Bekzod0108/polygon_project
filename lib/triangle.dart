@@ -10,6 +10,10 @@ class Triangle {
     this.b = b;
     this.c = c;
   }
+  double area(){
+    return (a*b)/2;
+  }
+  
   
 
  
